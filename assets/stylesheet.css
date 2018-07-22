@@ -39,7 +39,8 @@ h2 {
 }
 #paper3 dl{
 	font-family: "Hiragino Kaku Gothic W5 JIS2004", sans-serif;
+	border-bottom: solid 1.5px rgba(95,95,95,0.80);
 }
 p{
-	font-family: "Hiragino Kaku Gothic W5 JIS2004", sans-serif;
+	font-family: "Hiragino Kaku Gothic W6 JIS2004", sans-serif;
 }
