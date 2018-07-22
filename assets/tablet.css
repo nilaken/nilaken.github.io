@@ -1,0 +1,83 @@
+
+/* CSS Document */
+
+@media screen and (max-width: 680px) {
+.br-pc {
+	display: none;
+}
+.paper p {
+	text-align: left;
+	text-indent: 1em;
+}
+}
+
+@media screen and (max-width: 979px) and (min-width:480px) {
+h1 img {
+	width: 480px;
+	margin: 50px auto;
+}
+.main-wrapper {
+	width: 85%;
+	padding: 30px 0;
+	border: solid 20px black;
+}
+h3 {
+	font-size: 1.6em;
+	line-height: 1.6em;
+}
+.paper p {
+	font-size: 1.1em;
+	line-height: 1.6em;
+}
+#paper1, #paper2, #paper4 {
+	width: 75%;
+	height: 200px;
+}
+#paper1 {
+	position: relative;
+	left: -20px;
+	transform: rotate(-1.5deg);
+}
+#paper2 {
+	position: relative;
+	left: 20px;
+	transform: rotate(1.5deg);
+}
+#paper3 {
+	width: 80%;
+}
+#paper3 dl {
+	width: 105px;
+	height: 100px;
+	display: inline-block;
+	margin: 5px;
+}
+#paper3 dt {
+	text-align: center;
+	font-size: 0.8em;
+	padding: 10px 0;
+}
+#paper3 dd {
+	margin: 0;
+	text-indent: 0;
+	line-height: 1.6em;
+	font-size: 0.6em;
+	margin-top: 7px;
+}
+.admin {
+	font-size: 1em;
+}
+.pc-m {
+	background-color: rgba(255,196,224,1)
+}
+.pc-c {
+	background-color: rgba(141,225,244,1);
+}
+.pc-y {
+	background-color: rgba(255,231,169,1);
+}
+strong {
+	color: red;
+	font-size: 2em;
+}
+}
