@@ -1,7 +1,7 @@
 /* CSS Document */
 @charset "utf-8";
 body {
-	font-family: "Noto sans CJK JP Black", sans-serif;
+	font-family: "Hiragino Kaku Gothic W7 JIS2004", sans-serif;
 }
 nav ul {
 	background-color: rgba(43,43,43,1.00);
@@ -37,12 +37,6 @@ h2 {
 	padding: 0px;
 	margin: auto;
 }
-.admin dt {
-	text-align: left;
-}
-.admin dd {
-	text-align: left;
-}
-.admin {
-	font-size: 0.5em;
+#paper3 dl{
+	font-family: "Hiragino Kaku Gothic W3 JIS2004", sans-serif;
 }
