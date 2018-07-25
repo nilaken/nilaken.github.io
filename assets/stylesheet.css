@@ -34,7 +34,7 @@ h1 {
 	margin: 50px auto;
 }
 p{
-	margin:auto;
+	margin:30px auto;
 }
 h2 {
 	display: inline-block;
@@ -49,10 +49,10 @@ h2 {
 	border-bottom: solid 1.5px rgba(95,95,95,0.80);
 }
 a:link{
-	color: black;
+	color: rgba(0,0,0,1);
 }
 a:visited{
-	color: black;
+	color: rgba(0,0,0,1);
 }
 a:hover{
 	color: rgba(50,50,50,1);
