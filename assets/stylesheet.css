@@ -45,6 +45,9 @@ h2 {
 	font-family: "GSanSerif-B", sans-serif;
 	border-bottom: solid 1.5px rgba(95,95,95,0.80);
 }
+#paper3, #paper4 {
+	transform:rotate(0.001deg);	
+}
 a:link{
 	color: rgba(75,132,237,1);
 }
