@@ -33,9 +33,6 @@ h1 {
 	border-bottom: solid 2px rgba(95,95,95,0.80);
 	margin: 50px auto;
 }
-p{
-	vertical-align: middle;
-}
 h2 {
 	display: inline-block;
 	text-align: center;
@@ -45,7 +42,7 @@ h2 {
 	font-family: "GSanSerif-U", sans-serif;
 }
 #paper3 dl{
-	font-family: "Folk Regular", sans-serif;
+	font-family: "Talking", sans-serif;
 	border-bottom: solid 1.5px rgba(95,95,95,0.80);
 }
 a:link{
