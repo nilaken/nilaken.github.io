@@ -55,5 +55,11 @@ a:visited{
 	color: rgba(0,0,0,1);
 }
 a:hover{
-	color: rgba(50,50,50,1);
+	color: rgba(100,100,100,1);
+}
+a{
+	text-decoration:none;
+}
+.admin{
+	font-size:0.8em
 }
