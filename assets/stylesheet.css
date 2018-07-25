@@ -34,7 +34,7 @@ h1 {
 	margin: 50px auto;
 }
 p{
-	margin:100px auto;
+	vertical-align: middle;
 }
 h2 {
 	display: inline-block;
