@@ -48,3 +48,12 @@ h2 {
 	font-family: "Cinema Letter", sans-serif;
 	border-bottom: solid 1.5px rgba(95,95,95,0.80);
 }
+a:link{
+	color: black;
+}
+a:visited{
+	color: black;
+}
+a:hover{
+	color: rgba(50,50,50,1);
+}
