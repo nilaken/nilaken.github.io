@@ -33,6 +33,9 @@ h1 {
 	border-bottom: solid 2px rgba(95,95,95,0.80);
 	margin: 50px auto;
 }
+p{
+	margin:auto;
+}
 h2 {
 	display: inline-block;
 	text-align: center;
